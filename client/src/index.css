@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  font-family: "Kanit", sans-serif;;
+}
+.sec{
+  margin: 0 auto;
+  margin-top: 1.5rem;
+  padding: 0 10rem;
+}
+.markdown{
+  border: solid 1px gray;
+  padding: 10px;
+  background: white;
+  border-radius: 10px;
+  height: 600px;
+}
+.markdown_dialog{
+  border: solid 1px gray;
+  padding: 10px;
+  background: white;
+  border-radius: 10px;
+  height: 500px;
+}
+body{
+  font-family: "Kanit",sans-serif !important;
+}
+.avatar{
+  border:solid 1px gray;
+  padding: 5px;
+  margin:10px;
+}
+.kanit{
+  font-family: "Kanit",sans-serif;
+}
